@@ -2,6 +2,10 @@
 
 This **interactive dashboard** provides comprehensive insights into the landscape of data professionals, including demographics, job satisfaction, salary analysis, programming language preferences, and work-life balance metrics. The dashboard was developed using **Power BI** and embedded into a **Streamlit application** for seamless user interaction.
 
+![Data_professional_survey_dashboard_analysis-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0774ad50-c30f-4238-a217-4a319c6c6335)
+
+
+
 ## Dashboard Sections and Insights
 
 ### 1. **Demographics - Age and Gender Distribution**
