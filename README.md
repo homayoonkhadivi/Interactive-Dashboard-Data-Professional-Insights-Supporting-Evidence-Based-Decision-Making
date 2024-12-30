@@ -1,4 +1,4 @@
-# Data Professional Survey Dashboard
+# Interactive Dashboard for Data Professional Insights: Supporting Evidence-Based Decision-Making
 
 This **interactive dashboard** provides comprehensive insights into the landscape of data professionals, including demographics, job satisfaction, salary analysis, programming language preferences, and work-life balance metrics. The dashboard was developed using **Power BI** and embedded into a **Streamlit application** for seamless user interaction.
 
